@@ -11,18 +11,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-bl_info = {
-    "name": "Test [NAME]",
-    "author": "BD",
-    "description": "",
-    "blender": (2, 80, 0),
-    "version": (0, 0, 0),
-    "location": "",
-    "warning": "",
-    "tracker_url": "https://github.com/BD-Review/tests_basis/issues",
-    "endpoint_url": "https://raw.githubusercontent.com/BD-Review/Test_[NAME]/main/endpoint.json",
-    "category": "Generic"
-}
 
 
 def register():
